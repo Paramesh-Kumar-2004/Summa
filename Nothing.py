@@ -4,3 +4,10 @@ vp = 2004
 print(v)
 print(p)
 print(vp)
+
+
+
+
+
+
+
