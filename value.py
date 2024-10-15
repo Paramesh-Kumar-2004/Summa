@@ -1,3 +1,5 @@
+print("VALUES")
+
 v = 14
 p = 52
 vp = 2004
