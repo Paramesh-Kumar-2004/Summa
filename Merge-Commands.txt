@@ -1,0 +1,14 @@
+# Switch to the main branch
+git checkout main
+
+# Get the latest changes from the remote (optional but recommended)
+git pull origin main
+
+# Switch to branch1
+git checkout branch1
+
+# Merge main into branch1
+git merge main
+
+# Push the updated branch1 to GitHub (optional)
+git push origin branch1
