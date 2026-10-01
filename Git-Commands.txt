@@ -1,0 +1,9 @@
+**GitHub Login / Authentication**
+
+`git config --global user.name "Your Name"` – Sets your Git username.
+
+`git config --global user.email "your-email@example.com"` – Sets your Git email address.
+
+`git config --global --list` – Checks your Git configuration.
+
+Note: GitHub authentication is usually handled through a browser login using Git Credential Manager or through a Personal Access Token (PAT), rather than a `git login` command.
