@@ -1,4 +1,4 @@
-**GitHub Login / Authentication**
+GitHub Login / Authentication
 
 `git config --global user.name "Your Name"` – Sets your Git username.
 
@@ -11,7 +11,7 @@ Note: GitHub authentication is usually handled through a browser login using Git
 
 
 
-**Git Clone**
+Git Clone
 
 `git clone repository_url` – Downloads an existing GitHub repository to your local computer.
 
