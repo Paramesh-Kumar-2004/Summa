@@ -10,11 +10,9 @@ Note: GitHub authentication is usually handled through a browser login using Git
 
 Git Clone
 
-`git clone repository_url` – Downloads an existing GitHub repository to your local computer.
-
-Example: `git clone https://github.com/username/repository.git`
-
-Used when you want to start working on an existing project from GitHub.
+    `git clone repository_url` – Downloads an existing GitHub repository to your local computer.
+    Example: `git clone https://github.com/username/repository.git`
+Note: Used when you want to start working on an existing project from GitHub.
 
 
 
