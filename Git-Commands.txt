@@ -17,3 +17,6 @@ Note: Used when you want to start working on an existing project from GitHub.
 
 
 
+Git Status
+    git status – Displays the current repository status, including modified, staged, and untracked files.
+    
