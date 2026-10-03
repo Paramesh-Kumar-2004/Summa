@@ -27,3 +27,11 @@ Git Add
     git add . – Stages all changes in the current directory.
     git add filename – Stages a specific file.  
     git add -A – Stages all new, modified, and deleted files in the repository.
+
+
+
+
+
+Git Commit
+    git commit -m "your commit message" – Saves the staged changes as a commit with a descriptive message.
+    git commit -am "your commit message" – Stages and commits modifications to tracked files, but does not include new untracked files.
