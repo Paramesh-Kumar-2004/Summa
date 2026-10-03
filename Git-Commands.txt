@@ -39,9 +39,6 @@ Git Commit
 
 
 Git Push
-
-git push – Uploads local commits to the connected remote repository.
-
-git push origin branch-name – Pushes local commits to a specific branch on the remote repository.
-
-git push -u origin branch-name – Pushes the branch to the remote repository and sets its upstream for future pushes.
+    git push – Uploads local commits to the connected remote repository.
+    git push origin branch-name – Pushes local commits to a specific branch on the remote repository.
+    git push -u origin branch-name – Pushes the branch to the remote repository and sets its upstream for future pushes.
