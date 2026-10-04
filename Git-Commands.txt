@@ -49,7 +49,5 @@ Git Push
 
 
 Git Pull
-
-git pull – Fetches and integrates changes from the configured remote branch into the current branch.
-
-git pull origin branch-name – Fetches and integrates changes from a specific remote branch.
+    git pull – Fetches and integrates changes from the configured remote branch into the current branch.
+    git pull origin branch-name – Fetches and integrates changes from a specific remote branch.
