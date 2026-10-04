@@ -58,11 +58,7 @@ Git Pull
 
 
 Git Branch
-
-git branch – Lists all local branches.
-
-git branch branch-name – Creates a new branch.
-
-git branch -a – Lists all local and remote-tracking branches.
-
-git branch -d branch-name – Deletes a local branch that has been safely merged.
+    git branch – Lists all local branches.
+    git branch branch-name – Creates a new branch.
+    git branch -a – Lists all local and remote-tracking branches.
+    git branch -d branch-name – Deletes a local branch that has been safely merged.
