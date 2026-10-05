@@ -79,7 +79,5 @@ Git Switch
 
 
 Git Merge
-
-git merge branch-name – Merges the specified branch into the current branch.
-
-git merge --abort – Cancels an in-progress merge when conflicts occur and Git allows the merge to be aborted.
+    git merge branch-name – Merges the specified branch into the current branch.
+    git merge --abort – Cancels an in-progress merge when conflicts occur and Git allows the merge to be aborted.
