@@ -71,3 +71,15 @@ Git Branch
 Git Switch
     git switch branch-name – Switches to an existing branch.
     git switch -c branch-name – Creates a new branch and switches to it.
+
+
+
+
+
+
+
+Git Merge
+
+git merge branch-name – Merges the specified branch into the current branch.
+
+git merge --abort – Cancels an in-progress merge when conflicts occur and Git allows the merge to be aborted.
