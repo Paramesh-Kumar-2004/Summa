@@ -69,7 +69,5 @@ Git Branch
 
 
 Git Switch
-
-git switch branch-name – Switches to an existing branch.
-
-git switch -c branch-name – Creates a new branch and switches to it.
+    git switch branch-name – Switches to an existing branch.
+    git switch -c branch-name – Creates a new branch and switches to it.
