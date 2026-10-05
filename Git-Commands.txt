@@ -81,3 +81,16 @@ Git Switch
 Git Merge
     git merge branch-name – Merges the specified branch into the current branch.
     git merge --abort – Cancels an in-progress merge when conflicts occur and Git allows the merge to be aborted.
+
+
+
+
+
+
+Git Log
+
+git log – Displays the commit history of the current branch.
+
+git log --oneline – Displays each commit in a single line.
+
+git log --oneline --all – Displays commits from all branches in a compact format.
