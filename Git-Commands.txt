@@ -91,3 +91,17 @@ Git Log
     git log – Displays the commit history of the current branch.
     git log --oneline – Displays each commit in a single line.
     git log --oneline --all – Displays commits from all branches in a compact format.
+
+
+
+
+
+Git Remote
+
+git remote -v – Displays the remote repository names and their URLs.
+
+git remote add origin repository-url – Connects the local repository to a remote repository.
+
+git remote set-url origin repository-url – Changes the URL of the existing remote repository.
+
+git remote remove origin – Removes the remote connection named origin.
