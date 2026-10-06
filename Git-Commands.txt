@@ -88,9 +88,6 @@ Git Merge
 
 
 Git Log
-
-git log – Displays the commit history of the current branch.
-
-git log --oneline – Displays each commit in a single line.
-
-git log --oneline --all – Displays commits from all branches in a compact format.
+    git log – Displays the commit history of the current branch.
+    git log --oneline – Displays each commit in a single line.
+    git log --oneline --all – Displays commits from all branches in a compact format.
