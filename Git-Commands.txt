@@ -118,11 +118,7 @@ Git Fetch
 
 
 Git Stash
-
-git stash – Temporarily saves tracked-file changes and reverts them from the working directory.
-
-git stash -u – Temporarily saves tracked and untracked file changes.
-
-git stash list – Lists all saved stashes.
-
-git stash pop – Applies the latest stash and removes it from the stash list.
+    git stash – Temporarily saves tracked-file changes and reverts them from the working directory.
+    git stash -u – Temporarily saves tracked and untracked file changes.
+    git stash list – Lists all saved stashes.
+    git stash pop – Applies the latest stash and removes it from the stash list.
