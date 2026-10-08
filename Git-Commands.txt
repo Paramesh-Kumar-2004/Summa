@@ -141,9 +141,6 @@ Git Reset
 
 
 Git Restore
-
-git restore filename – Discards unstaged changes in a specific file and restores it to the last committed version.
-
-git restore . – Discards all unstaged changes in tracked files in the current directory and its subdirectories.
-
-git restore --staged filename – Unstages a specific file while keeping its changes in the working directory.
+    git restore filename – Discards unstaged changes in a specific file and restores it to the last committed version.
+    git restore . – Discards all unstaged changes in tracked files in the current directory and its subdirectories.
+    git restore --staged filename – Unstages a specific file while keeping its changes in the working directory.
