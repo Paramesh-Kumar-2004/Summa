@@ -133,3 +133,17 @@ Git Reset
     git reset filename – Unstages a specific file while keeping its modifications.
     git reset --soft HEAD~1 – Removes the latest commit but keeps its changes staged.
     git reset --hard HEAD~1 – Removes the latest commit and discards its changes from the working directory; use carefully because this can cause data loss.
+
+
+
+
+
+
+
+Git Restore
+
+git restore filename – Discards unstaged changes in a specific file and restores it to the last committed version.
+
+git restore . – Discards all unstaged changes in tracked files in the current directory and its subdirectories.
+
+git restore --staged filename – Unstages a specific file while keeping its changes in the working directory.
