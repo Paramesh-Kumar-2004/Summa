@@ -122,3 +122,18 @@ Git Stash
     git stash -u – Temporarily saves tracked and untracked file changes.
     git stash list – Lists all saved stashes.
     git stash pop – Applies the latest stash and removes it from the stash list.
+
+
+
+
+
+
+Git Reset
+
+git reset – Unstages staged changes while keeping the file modifications in your working directory.
+
+git reset filename – Unstages a specific file while keeping its modifications.
+
+git reset --soft HEAD~1 – Removes the latest commit but keeps its changes staged.
+
+git reset --hard HEAD~1 – Removes the latest commit and discards its changes from the working directory; use carefully because this can cause data loss.
