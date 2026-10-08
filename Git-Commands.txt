@@ -129,11 +129,7 @@ Git Stash
 
 
 Git Reset
-
-git reset – Unstages staged changes while keeping the file modifications in your working directory.
-
-git reset filename – Unstages a specific file while keeping its modifications.
-
-git reset --soft HEAD~1 – Removes the latest commit but keeps its changes staged.
-
-git reset --hard HEAD~1 – Removes the latest commit and discards its changes from the working directory; use carefully because this can cause data loss.
+    git reset – Unstages staged changes while keeping the file modifications in your working directory.
+    git reset filename – Unstages a specific file while keeping its modifications.
+    git reset --soft HEAD~1 – Removes the latest commit but keeps its changes staged.
+    git reset --hard HEAD~1 – Removes the latest commit and discards its changes from the working directory; use carefully because this can cause data loss.
