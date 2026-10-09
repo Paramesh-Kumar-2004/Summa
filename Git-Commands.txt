@@ -157,3 +157,19 @@ Git Config
     git config --global --list – Displays your global Git configuration settings.
     git config user.name – Displays the configured author name for the current repository.
     git config user.email – Displays the configured author email for the current repository.
+
+
+
+
+
+
+
+Git Diff
+
+git diff – Displays unstaged changes made to tracked files.
+
+git diff --staged – Displays changes that are staged and ready to commit.
+
+git diff branch-name – Shows differences between the current branch and the specified branch.
+
+git diff --stat – Displays a summary of changed files and the number of lines added or deleted.
