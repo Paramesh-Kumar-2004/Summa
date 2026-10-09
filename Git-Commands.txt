@@ -144,3 +144,21 @@ Git Restore
     git restore filename – Discards unstaged changes in a specific file and restores it to the last committed version.
     git restore . – Discards all unstaged changes in tracked files in the current directory and its subdirectories.
     git restore --staged filename – Unstages a specific file while keeping its changes in the working directory.
+
+
+
+
+
+
+
+Git Config
+
+git config --global user.name "Your Name" – Sets your Git commit author name for all repositories on your computer.
+
+git config --global user.email "your-email@example.com" – Sets your Git commit author email for all repositories on your computer.
+
+git config --global --list – Displays your global Git configuration settings.
+
+git config user.name – Displays the configured author name for the current repository.
+
+git config user.email – Displays the configured author email for the current repository.
