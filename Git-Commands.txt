@@ -165,11 +165,7 @@ Git Config
 
 
 Git Diff
-
-git diff – Displays unstaged changes made to tracked files.
-
-git diff --staged – Displays changes that are staged and ready to commit.
-
-git diff branch-name – Shows differences between the current branch and the specified branch.
-
-git diff --stat – Displays a summary of changed files and the number of lines added or deleted.
+    git diff – Displays unstaged changes made to tracked files.
+    git diff --staged – Displays changes that are staged and ready to commit.
+    git diff branch-name – Shows differences between the current branch and the specified branch.
+    git diff --stat – Displays a summary of changed files and the number of lines added or deleted.
