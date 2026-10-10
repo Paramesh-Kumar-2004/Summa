@@ -169,3 +169,18 @@ Git Diff
     git diff --staged – Displays changes that are staged and ready to commit.
     git diff branch-name – Shows differences between the current branch and the specified branch.
     git diff --stat – Displays a summary of changed files and the number of lines added or deleted.
+
+
+
+
+
+
+
+
+Git Rebase
+
+git rebase branch-name – Reapplies the current branch's commits on top of the specified branch.
+
+git rebase --continue – Continues the rebase after resolving conflicts.
+
+git rebase --abort – Cancels an in-progress rebase and returns to the original branch state.
