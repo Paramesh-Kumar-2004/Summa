@@ -178,9 +178,6 @@ Git Diff
 
 
 Git Rebase
-
-git rebase branch-name – Reapplies the current branch's commits on top of the specified branch.
-
-git rebase --continue – Continues the rebase after resolving conflicts.
-
-git rebase --abort – Cancels an in-progress rebase and returns to the original branch state.
+    git rebase branch-name – Reapplies the current branch's commits on top of the specified branch.
+    git rebase --continue – Continues the rebase after resolving conflicts.
+    git rebase --abort – Cancels an in-progress rebase and returns to the original branch state.
