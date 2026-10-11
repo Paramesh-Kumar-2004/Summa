@@ -209,3 +209,17 @@ Git Tag
     git push origin tag-name – Pushes a specific tag to the remote repository.
     git push origin --tags – Pushes all local tags to the remote repository.
     git tag -d tag-name – Deletes a local tag.
+
+
+
+
+
+
+
+Git Show
+
+git show – Displays details of the latest commit, including its changes.
+
+git show commit-hash – Displays details of a specific commit.
+
+git show --stat – Displays a summary of files changed in the latest commit.
