@@ -203,15 +203,9 @@ Git Cherry-Pick
 
 
 Git Tag
-
-git tag – Lists all tags in the repository.
-
-git tag tag-name – Creates a lightweight tag for the current commit.
-
-git tag -a tag-name -m "Release message" – Creates an annotated tag with a message.
-
-git push origin tag-name – Pushes a specific tag to the remote repository.
-
-git push origin --tags – Pushes all local tags to the remote repository.
-
-git tag -d tag-name – Deletes a local tag.
+    git tag – Lists all tags in the repository.
+    git tag tag-name – Creates a lightweight tag for the current commit.
+    git tag -a tag-name -m "Release message" – Creates an annotated tag with a message.
+    git push origin tag-name – Pushes a specific tag to the remote repository.
+    git push origin --tags – Pushes all local tags to the remote repository.
+    git tag -d tag-name – Deletes a local tag.
