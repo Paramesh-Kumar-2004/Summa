@@ -217,9 +217,6 @@ Git Tag
 
 
 Git Show
-
-git show – Displays details of the latest commit, including its changes.
-
-git show commit-hash – Displays details of a specific commit.
-
-git show --stat – Displays a summary of files changed in the latest commit.
+    git show – Displays details of the latest commit, including its changes.
+    git show commit-hash – Displays details of a specific commit.
+    git show --stat – Displays a summary of files changed in the latest commit.
