@@ -230,3 +230,21 @@ Git Revert
     git revert commit-hash – Creates a new commit that reverses the changes introduced by a specific commit.
     git revert HEAD – Creates a new commit that reverses the latest commit.
     git revert --abort – Cancels an in-progress revert operation.
+
+
+
+
+
+
+
+Git Clean
+
+git clean -n – Previews untracked files and directories that would be deleted.
+
+git clean -f – Deletes untracked files from the working directory.
+
+git clean -fd – Deletes untracked files and directories from the working directory.
+
+git clean -fdn – Previews untracked files and directories that would be deleted.
+
+Warning: Git Clean permanently deletes untracked files; preview with `git clean -n` before deleting.
