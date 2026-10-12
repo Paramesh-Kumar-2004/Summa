@@ -227,9 +227,6 @@ Git Show
 
 
 Git Revert
-
-git revert commit-hash – Creates a new commit that reverses the changes introduced by a specific commit.
-
-git revert HEAD – Creates a new commit that reverses the latest commit.
-
-git revert --abort – Cancels an in-progress revert operation.
+    git revert commit-hash – Creates a new commit that reverses the changes introduced by a specific commit.
+    git revert HEAD – Creates a new commit that reverses the latest commit.
+    git revert --abort – Cancels an in-progress revert operation.
