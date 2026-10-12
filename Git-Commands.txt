@@ -220,3 +220,16 @@ Git Show
     git show – Displays details of the latest commit, including its changes.
     git show commit-hash – Displays details of a specific commit.
     git show --stat – Displays a summary of files changed in the latest commit.
+
+
+
+
+
+
+Git Revert
+
+git revert commit-hash – Creates a new commit that reverses the changes introduced by a specific commit.
+
+git revert HEAD – Creates a new commit that reverses the latest commit.
+
+git revert --abort – Cancels an in-progress revert operation.
