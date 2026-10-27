@@ -1,3 +1,9 @@
+GIT COMMANDS & EXPLANATIONS
+
+
+
+
+
 GitHub Login / Authentication
 
     `git config --global user.name "Your Name"` – Sets your Git username.
