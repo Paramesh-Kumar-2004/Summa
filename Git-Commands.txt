@@ -243,3 +243,9 @@ Git Clean
     git clean -fd – Deletes untracked files and directories from the working directory.
     git clean -fdn – Previews untracked files and directories that would be deleted.
     Warning: Git Clean permanently deletes untracked files; preview with `git clean -n` before deleting.
+
+
+
+
+
+
