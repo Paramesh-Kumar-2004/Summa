@@ -267,9 +267,6 @@ Git Blame
 
 
 Git Grep
-
-git grep "search-text" – Searches for specific text in files tracked by Git.
-
-git grep -n "search-text" – Searches for specific text and displays the matching line numbers.
-
-git grep -i "search-text" – Searches for text without distinguishing uppercase and lowercase letters.
+    git grep "search-text" – Searches for specific text in files tracked by Git.
+    git grep -n "search-text" – Searches for specific text and displays the matching line numbers.
+    git grep -i "search-text" – Searches for text without distinguishing uppercase and lowercase letters.
