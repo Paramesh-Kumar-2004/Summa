@@ -270,3 +270,21 @@ Git Grep
     git grep "search-text" – Searches for specific text in files tracked by Git.
     git grep -n "search-text" – Searches for specific text and displays the matching line numbers.
     git grep -i "search-text" – Searches for text without distinguishing uppercase and lowercase letters.
+
+
+
+
+
+
+
+
+
+
+
+Git Reflog
+
+git reflog – Displays the history of recent changes to HEAD and branch references in the local repository.
+
+git reflog --all – Displays reference history for all local references.
+
+git reflog show HEAD – Displays recent movements of HEAD, including previous commits and branch switches.
