@@ -293,3 +293,10 @@ Git Reflog
 
 
 
+Git Shortlog
+
+git shortlog – Displays commit history grouped by author.
+
+git shortlog -s – Displays the number of commits made by each author.
+
+git shortlog -sn – Displays commit counts by author, sorted from highest to lowest.
