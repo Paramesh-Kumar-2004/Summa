@@ -302,9 +302,6 @@ Git Shortlog
 
 
 Git Archive
-
-git archive HEAD – Creates an archive of the current commit's files.
-
-git archive --format=zip -o project.zip HEAD – Creates a ZIP archive of the current commit.
-
-git archive --format=tar -o project.tar HEAD – Creates a TAR archive of the current commit.
+    git archive HEAD – Creates an archive of the current commit's files.
+    git archive --format=zip -o project.zip HEAD – Creates a ZIP archive of the current commit.
+    git archive --format=tar -o project.tar HEAD – Creates a TAR archive of the current commit.
