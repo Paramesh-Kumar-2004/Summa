@@ -314,3 +314,10 @@ Git Archive
 
 
 
+Git Describe
+
+git describe – Displays the most recent reachable tag from the current commit.
+
+git describe --tags – Includes lightweight and annotated tags when finding the most recent tag.
+
+git describe --always – Displays a commit hash when no reachable tag is available.
