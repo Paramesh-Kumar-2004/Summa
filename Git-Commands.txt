@@ -324,7 +324,5 @@ Git Describe
 
 
 Git Remote Prune
-
-git remote prune origin – Removes outdated remote-tracking branches that no longer exist on the remote repository.
-
-git remote prune origin --dry-run – Previews which outdated remote-tracking branches would be removed without deleting them.
+    it remote prune origin – Removes outdated remote-tracking branches that no longer exist on the remote repository.
+    git remote prune origin --dry-run – Previews which outdated remote-tracking branches would be removed without deleting them.
