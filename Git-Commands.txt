@@ -356,3 +356,12 @@ Git Submodule
 
 
 
+Git Bisect
+
+git bisect start – Starts a binary search to identify the commit that introduced a bug.
+
+git bisect bad – Marks the current commit as containing the bug.
+
+git bisect good commit-hash – Marks a specific commit as working correctly.
+
+git bisect reset – Ends the bisect process and returns to the original branch state.
