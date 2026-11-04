@@ -450,3 +450,14 @@ Git Config Alias
 
 
 
+Git Workflows
+
+git status -sb – Displays the current branch and a compact summary of working directory changes.
+
+git switch - – Switches back to the previously checked-out branch.
+
+git branch -m new-branch-name – Renames the current local branch.
+
+git push origin --delete branch-name – Deletes a branch from the remote repository.
+
+git ls-remote origin – Displays references and commit hashes available on the remote repository.
