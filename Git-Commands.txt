@@ -464,3 +464,12 @@ Git Workflows
 
 
 
+Git Ignore
+
+git check-ignore filename – Checks whether a specific file is ignored by Git.
+
+git check-ignore -v filename – Displays the .gitignore rule responsible for ignoring a file.
+
+git rm --cached filename – Removes a tracked file from Git's index while keeping it on your computer.
+
+git rm -r --cached . – Removes all files from Git's index so they can be re-added according to .gitignore rules.
