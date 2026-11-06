@@ -481,3 +481,14 @@ Git Switch & Checkout (Advanced)
     git checkout -b branch-name – Creates a new branch and switches to it.
     git checkout commit-hash – Checks out a specific commit in detached HEAD state.
     git checkout -- filename – Discards unstaged changes in a specific file and restores its last committed version.
+
+
+
+
+
+
+
+
+
+
+
