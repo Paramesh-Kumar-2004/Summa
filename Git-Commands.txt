@@ -502,9 +502,6 @@ Git Amend
 
 
 Git Remote Rename
-
-git remote rename origin upstream – Renames the remote repository from `origin` to `upstream`.
-
-git remote get-url origin – Displays the URL of the remote repository named origin.
-
-git remote get-url --all origin – Displays all fetch and push URLs configured for origin.
+    git remote rename origin upstream – Renames the remote repository from `origin` to `upstream`.
+    git remote get-url origin – Displays the URL of the remote repository named origin.
+    git remote get-url --all origin – Displays all fetch and push URLs configured for origin.
