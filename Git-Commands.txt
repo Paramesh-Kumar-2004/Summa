@@ -491,11 +491,7 @@ Git Switch & Checkout (Advanced)
 
 
 Git Amend
-
-git commit --amend – Modifies the most recent commit.
-
-git commit --amend -m "New commit message" – Changes the most recent commit message.
-
-git commit --amend --no-edit – Adds staged changes to the most recent commit without changing its message.
-
-git commit --amend --author="Your Name <your-email@example.com>" – Changes the author information of the most recent commit.
+    git commit --amend – Modifies the most recent commit.
+    git commit --amend -m "New commit message" – Changes the most recent commit message.
+    git commit --amend --no-edit – Adds staged changes to the most recent commit without changing its message.
+    git commit --amend --author="Your Name <your-email@example.com>" – Changes the author information of the most recent commit.
