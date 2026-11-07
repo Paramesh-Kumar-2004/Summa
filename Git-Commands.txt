@@ -495,3 +495,16 @@ Git Amend
     git commit --amend -m "New commit message" – Changes the most recent commit message.
     git commit --amend --no-edit – Adds staged changes to the most recent commit without changing its message.
     git commit --amend --author="Your Name <your-email@example.com>" – Changes the author information of the most recent commit.
+
+
+
+
+
+
+Git Remote Rename
+
+git remote rename origin upstream – Renames the remote repository from `origin` to `upstream`.
+
+git remote get-url origin – Displays the URL of the remote repository named origin.
+
+git remote get-url --all origin – Displays all fetch and push URLs configured for origin.
