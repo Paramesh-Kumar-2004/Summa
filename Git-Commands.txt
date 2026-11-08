@@ -424,15 +424,9 @@ Git FSCK (File System Check)
 
 
 Git LFS (Large File Storage)
-
-git lfs install – Installs and configures Git LFS for your user account.
-
-git lfs track "*.psd" – Configures Git LFS to track all PSD files.
-
-git lfs track "*.mp4" – Configures Git LFS to track all MP4 files.
-
-git lfs ls-files – Lists files currently tracked by Git LFS.
-
-git lfs status – Displays the status of Git LFS files.
-
-git lfs uninstall – Removes Git LFS configuration from your Git environment.
+    git lfs install – Installs and configures Git LFS for your user account.
+    git lfs track "*.psd" – Configures Git LFS to track all PSD files.
+    git lfs track "*.mp4" – Configures Git LFS to track all MP4 files.
+    git lfs ls-files – Lists files currently tracked by Git LFS.
+    git lfs status – Displays the status of Git LFS files.
+    git lfs uninstall – Removes Git LFS configuration from your Git environment.
