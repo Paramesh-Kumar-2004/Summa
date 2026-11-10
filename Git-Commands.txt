@@ -403,9 +403,6 @@ git clone backup.bundle project-folder – Creates a local repository from a Git
 
 
 Git GC (Garbage Collection)
-
-git gc – Cleans up unnecessary files and optimizes the local Git repository.
-
-git gc --aggressive – Performs more intensive repository optimization.
-
-git gc --prune=now – Immediately removes unreachable Git objects that are no longer needed; use carefully.
+    git gc – Cleans up unnecessary files and optimizes the local Git repository.
+    git gc --aggressive – Performs more intensive repository optimization.
+    git gc --prune=now – Immediately removes unreachable Git objects that are no longer needed; use carefully.
