@@ -406,3 +406,18 @@ Git GC (Garbage Collection)
     git gc – Cleans up unnecessary files and optimizes the local Git repository.
     git gc --aggressive – Performs more intensive repository optimization.
     git gc --prune=now – Immediately removes unreachable Git objects that are no longer needed; use carefully.
+
+
+
+
+
+
+
+
+Git FSCK (File System Check)
+
+git fsck – Checks the Git repository for corrupted or missing objects.
+
+git fsck --full – Performs a more thorough integrity check of the repository.
+
+git fsck --unreachable – Identifies Git objects that are not reachable from current references.
