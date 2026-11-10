@@ -415,9 +415,6 @@ Git GC (Garbage Collection)
 
 
 Git FSCK (File System Check)
-
-git fsck – Checks the Git repository for corrupted or missing objects.
-
-git fsck --full – Performs a more thorough integrity check of the repository.
-
-git fsck --unreachable – Identifies Git objects that are not reachable from current references.
+    git fsck – Checks the Git repository for corrupted or missing objects.
+    git fsck --full – Performs a more thorough integrity check of the repository.
+    git fsck --unreachable – Identifies Git objects that are not reachable from current references.
