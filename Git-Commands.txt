@@ -369,11 +369,7 @@ Git Bisect
 
 
 Git Notes
-
-git notes add -m "Your note" – Adds a note to the current commit without modifying the commit itself.
-
-git notes show – Displays the note attached to the current commit.
-
-git notes list – Lists all notes in the repository.
-
-git notes remove – Removes the note attached to the current commit.
+    git notes add -m "Your note" – Adds a note to the current commit without modifying the commit itself.
+    git notes show – Displays the note attached to the current commit.
+    git notes list – Lists all notes in the repository.
+    git notes remove – Removes the note attached to the current commit.
