@@ -388,3 +388,12 @@ Git Maintenance
 
 
 
+Git Bundle
+
+git bundle create backup.bundle --all – Creates a backup bundle containing all branches and tags.
+
+git bundle verify backup.bundle – Verifies whether a Git bundle is valid.
+
+git bundle list-heads backup.bundle – Lists the branches and references stored in a bundle.
+
+git clone backup.bundle project-folder – Creates a local repository from a Git bundle.
