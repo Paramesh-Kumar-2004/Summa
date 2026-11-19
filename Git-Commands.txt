@@ -379,11 +379,7 @@ Git Notes
 
 
 Git Maintenance
-
-git maintenance start – Enables scheduled background maintenance for the repository.
-
-git maintenance run – Runs Git maintenance tasks to optimize repository performance.
-
-git maintenance run --auto – Runs maintenance automatically when Git determines it is necessary.
-
-git maintenance stop – Stops scheduled background maintenance.
+    git maintenance start – Enables scheduled background maintenance for the repository.
+    git maintenance run – Runs Git maintenance tasks to optimize repository performance.
+    git maintenance run --auto – Runs maintenance automatically when Git determines it is necessary.
+    git maintenance stop – Stops scheduled background maintenance.
