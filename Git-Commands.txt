@@ -283,9 +283,6 @@ Git Grep
 
 
 
-
-
-
 Git Reflog
     git reflog – Displays the history of recent changes to HEAD and branch references in the local repository.
     git reflog --all – Displays reference history for all local references.
